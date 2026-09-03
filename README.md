@@ -6,7 +6,7 @@ scanning product barcodes, and tracking product warranties.
 
 This repo is source-only – there's no `package.json` or native project here. The
 full, buildable Expo project is
-[`UrRecalls-app-personal`](https://github.com/senseikartikey/UrRecalls-app-personal).
+[`UrRecalls-app-personal`](https://github.com/senseikartikey/urrecalls-mobile-app).
 
 ## Stack
 
